@@ -37,11 +37,11 @@ pip install streamlit pandas
 ```
 
 ### Démarrage
-1. Téléchargez le fichier `ironman_app.py`
+1. Téléchargez le fichier `ironman.py`
 2. Ouvrez un terminal dans le dossier du fichier
 3. Lancez l'application :
 ```bash
-streamlit run ironman_app.py
+streamlit run ironman.py
 ```
 4. Ouvrez votre navigateur à l'adresse affichée (généralement `http://localhost:8501`)
 
